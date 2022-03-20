@@ -1,4 +1,6 @@
 # LAVIBSND Python
+*Código desenvolvido e atualizado por Eduardo Salmoria Fantin. Para dúvidas, contatar por email(eduardosalmoria@gmail.com) ou via [linkedin](https://www.linkedin.com/in/eduardo-salmoria-fantin-210305182/?originalSubdomain=br)* 
+
 
 O código em python do LavibsND é utilizado para a leitura de um arquivo .rst do Ansys e a conversão dele em um arquivo .eig, formato utilizado pela interface em Java e Fotran.
 
